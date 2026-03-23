@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "beautiful-mermaid": "^1.1.3"
+    "beautiful-mermaid": "github:naokiiida/beautiful-mermaid#fix/cjk-ascii-width"
   }
 }
